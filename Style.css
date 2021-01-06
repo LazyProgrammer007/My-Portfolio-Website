@@ -1,4 +1,6 @@
 body{
+    background-color: rgb(237, 240, 216);
+    text-align: justify;
     font-family: 'JetBrains Mono', monospace;
 }
 h1{
